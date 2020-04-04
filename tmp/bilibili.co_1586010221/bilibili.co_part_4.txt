@@ -1,0 +1,4 @@
+jenkins.bilibili.co           	172.18.21.10
+jks.bilibili.co               	172.18.21.10
+nexus.bilibili.co             	172.18.21.10
+zeppelin.bilibili.co          	172.18.21.10

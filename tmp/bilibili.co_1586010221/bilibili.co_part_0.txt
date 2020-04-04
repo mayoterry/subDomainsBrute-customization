@@ -1,0 +1,7 @@
+dl.bilibili.co                	172.18.21.10
+forum.bilibili.co             	172.16.3.2
+git.bilibili.co               	172.18.21.243
+merak.bilibili.co             	172.18.21.10
+report.bilibili.co            	172.18.21.10
+scan.bilibili.co              	172.18.21.10
+src.bilibili.co               	172.18.21.10

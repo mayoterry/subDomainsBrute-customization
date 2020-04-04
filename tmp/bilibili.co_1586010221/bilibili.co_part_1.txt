@@ -1,0 +1,9 @@
+consul.bilibili.co            	172.18.29.2
+int.bilibili.co               	120.92.185.130
+manager.bilibili.co           	172.18.21.10
+moni.bilibili.co              	172.18.21.10
+p.bilibili.co                 	172.18.21.10
+rap.bilibili.co               	172.16.33.12
+security.bilibili.co          	172.18.21.10
+sim.bilibili.co               	172.18.21.10
+update.bilibili.co            	101.71.54.173

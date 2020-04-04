@@ -1,0 +1,12 @@
+download.bilibili.co          	172.18.20.12
+file.bilibili.co              	172.18.12.112
+lancer.bilibili.co            	172.18.21.10
+lvs.bilibili.co               	172.18.21.10
+ml.bilibili.co                	172.18.21.10
+mo.bilibili.co                	172.18.21.10
+monitor.bilibili.co           	172.16.1.254
+ntp.bilibili.co               	211.159.203.173
+pan.bilibili.co               	172.18.12.112
+review.bilibili.co            	172.18.11.211
+sync.bilibili.co              	218.205.115.14
+zbx.bilibili.co               	172.18.20.13

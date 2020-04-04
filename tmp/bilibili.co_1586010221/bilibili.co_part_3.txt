@@ -1,0 +1,8 @@
+docs.bilibili.co              	172.16.1.51
+log.bilibili.co               	172.18.21.10
+mirrors.bilibili.co           	211.159.203.240
+mongo.bilibili.co             	172.18.21.10
+npm.bilibili.co               	172.18.21.10
+publish.bilibili.co           	172.18.20.12
+s3.bilibili.co                	172.18.18.16
+solar.bilibili.co             	172.18.21.10

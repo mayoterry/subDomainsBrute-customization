@@ -1,0 +1,54 @@
+[<type 'exceptions.UnboundLocalError'>] local variable 'answer' referenced before assignment
+[<type 'exceptions.UnboundLocalError'>] local variable 'answer' referenced before assignment
+[<type 'exceptions.TypeError'>] cannot concatenate 'str' and 'Answer' objects
+[<type 'exceptions.TypeError'>] cannot concatenate 'str' and 'Answer' objects
+[<type 'exceptions.TypeError'>] cannot concatenate 'str' and 'Answer' objects
+[<type 'exceptions.TypeError'>] cannot concatenate 'str' and 'Answer' objects
+[<type 'exceptions.TypeError'>] cannot concatenate 'str' and 'Answer' objects
+[<type 'exceptions.TypeError'>] cannot concatenate 'str' and 'Answer' objects
+[<type 'exceptions.TypeError'>] cannot concatenate 'str' and 'Answer' objects
+[<type 'exceptions.TypeError'>] cannot concatenate 'str' and 'Answer' objects
+[<type 'exceptions.TypeError'>] cannot concatenate 'str' and 'Answer' objects
+[<type 'exceptions.TypeError'>] cannot concatenate 'str' and 'Answer' objects
+[<type 'exceptions.NameError'>] global name 'args' is not defined
+[<type 'exceptions.NameError'>] global name 'args' is not defined
+[<type 'exceptions.NameError'>] global name 'args' is not defined
+[<type 'exceptions.NameError'>] global name 'dns_servers' is not defined
+[<type 'exceptions.NameError'>] global name 'dns_servers' is not defined
+[<type 'exceptions.NameError'>] global name 'dns_servers' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_ip' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_ip' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_ip' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_ip' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_ip' is not defined
+[<type 'exceptions.NameError'>] global name 'dns_servers' is not defined
+[<type 'exceptions.NameError'>] global name 'dns_servers' is not defined
+[<type 'exceptions.NameError'>] global name 'dns_servers' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_deal' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_deal' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_deal' is not defined
+[<type 'exceptions.TypeError'>] 'str' object is not callable
+[<type 'exceptions.TypeError'>] 'str' object is not callable
+[<type 'exceptions.TypeError'>] 'str' object is not callable
+[<type 'exceptions.NameError'>] global name 'wildcard_deal' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_deal' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_deal' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_deal' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_deal' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_deal' is not defined
+[<type 'exceptions.TypeError'>] unbound method wildcard_deal() must be called with SubNameBrute instance as first argument (got str instance instead)
+[<type 'exceptions.TypeError'>] unbound method wildcard_deal() must be called with SubNameBrute instance as first argument (got str instance instead)
+[<type 'exceptions.TypeError'>] unbound method wildcard_deal() must be called with SubNameBrute instance as first argument (got str instance instead)
+[<type 'exceptions.NameError'>] global name 'dns_servers' is not defined
+[<type 'exceptions.NameError'>] global name 'dns_servers' is not defined
+[<type 'exceptions.NameError'>] global name 'dns_servers' is not defined
+[<type 'exceptions.NameError'>] global name 'dns_servers' is not defined
+[<type 'exceptions.NameError'>] global name 'dns_servers' is not defined
+[<type 'exceptions.NameError'>] global name 'dns_servers' is not defined
+[<type 'exceptions.AttributeError'>] 'int' object has no attribute 'strip'
+[<type 'exceptions.AttributeError'>] 'int' object has no attribute 'strip'
+[<type 'exceptions.AttributeError'>] 'int' object has no attribute 'strip'
+[<type 'exceptions.NameError'>] global name 'wildcard_ip' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_ip' is not defined
+[<type 'exceptions.NameError'>] global name 'wildcard_ip' is not defined
+[<type 'exceptions.AttributeError'>] 'int' object has no attribute 'strip'
